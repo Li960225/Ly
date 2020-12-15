@@ -14,6 +14,11 @@ public class MainActivity extends AppCompatActivity {
         //真的是
         //他真狗
 		//嗯知道
+<<<<<<< HEAD
 		//VS灌水灌水的公司
+=======
+		//rrrrrrrrr
+	//张鹏也是狗吧
+>>>>>>> 2707075507c7480c1a10d2de4fe94a5238ea9a46
     }
 }
